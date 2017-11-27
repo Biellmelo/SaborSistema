@@ -1,0 +1,24 @@
+﻿@model SENAI.ExemploStartUp.Models.Models.Cliente
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+}
+
+<h2>Index</h2>
+<h3>Bem Vindo @Model.Nome. Boas Compras !</h3>
+
+@{
+    var msg = TempData["CarrinhoVazio"];
+    if (msg != null)
+    {
+        <div class="alert alert-dismissible alert-danger">
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+            <strong>Ops!</strong>  @msg.
+        </div>
+    }
+}
+
+@Html.ActionLink("Lista de Produtos","Index","Carrinho", new { @class = "btn btn-default"}) | 
+@Html.ActionLink("Meu carrinho", "ListarItensCarrinhoAtivo", "Carrinho", new { @class = "btn btn-default" }) | 
+@Html.ActionLink("Minhas Compras", "MinhasCompras", "Cliente", new { @class = "btn btn-default",   })

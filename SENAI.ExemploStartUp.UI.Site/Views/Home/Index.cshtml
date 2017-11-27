@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Bem vindo!";
+}
+
+    <div class="HeaderArea">
+        <h3>TODOS OS DIAS AS MELHORES OPÇÕES PARA VOCÊ ;)</h3>
+    </div>
+<div class="CardArea">
+
+    <div id="Segunda" class="Card">
+        <a href="@Url.Action("DoDia", "Promocao", new { id = "Segunda" })"><img src="~/Imagens/Index/Segunda.png" /></a>
+        
+
+    </div>
+
+    <div id="Terca" class="Card">
+
+    @*@Html.ActionLink("DoDia", "Promocao", "", new { id = "Terça" })*@
+         <a href="@Url.Action("DoDia", "Promocao", new { id = "Terça" })"><img src="~/Imagens/Index/Terça.png" /></a>
+         @*<a href="Product/Edit/Terça"></a>*@
+
+    </div>
+
+    <div id="Quarta" class="Card">
+        <img src="~/Imagens/Index/Quarta.png" />
+    </div>
+
+    <div id="Quinta" class="Card">
+        <img src="~/Imagens/Index/Quinta.png" />
+    </div>
+
+    <div id="Sexta" class="Card">
+        <img src="~/Imagens/Index/Sexta.png" />
+    </div>
+
+    <div id="Sabado" class="Card">
+        <img src="~/Imagens/Index/Sabado.png" />
+    </div>
+
+    <div id="Domingo" class="Card">
+        <img src="~/Imagens/Index/Domingo.png" />
+    </div>
+</div>

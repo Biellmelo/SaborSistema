@@ -1,0 +1,55 @@
+﻿@model IEnumerable<SENAI.ExemploStartUp.Models.Models.Promocao>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="Conteiner-Adm">
+    <h2>Index</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Produto.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Desconto)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Produto.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Desconto)
+                </td>
+                <td>
+
+                    @Html.ActionLink("Editar", "Edit", new { id = item.PromocaoID, @class = "btn btn-default details" }) |
+                    @Html.ActionLink("Detalhes", "Details", new { id = item.PromocaoID, @class = "btn btn-danger delete" }) |
+                    @Html.ActionLink("Excluir", "Delete", new { id = item.PromocaoID, @class = "btn btn-primary glyphicon-edit" })
+                </td>
+            </tr>
+        }
+        <tr>
+            <td>
+                <br />
+                @Html.ActionLink("Voltar", "Default", "Admin")
+            </td>
+        </tr>
+    </table>
+    <br /><br />
+</div>

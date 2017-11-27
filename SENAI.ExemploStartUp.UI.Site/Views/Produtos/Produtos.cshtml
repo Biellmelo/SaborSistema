@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SENAI.ExemploStartUp.Models.Models.Produto>
+
+@{    ViewBag.Title = "Produtos";
+
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+    @Styles.Render("~/Content/AreaCliente.css");
+}
+
+<div class="ResultadosPesquisa">
+    <table style="width:100%;">
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                
+                <td width="160px;">
+                    
+                    <img class="ImagemPesquisa" style="width:135px; height:135px;  border-radius:67.5px; float:left; object-fit:cover; object-position:center;" src="~/Imagens/Produtos/@item.Imagem" />
+                </td>
+
+                <td class="NomeProdutoPesquisa">
+                    @*@Html.DisplayFor(modelItem => item.Nome)*@
+                    @Html.ActionLink(item.Nome, "Details_Cliente", new { id = item.ProdutoId })
+                </td>
+
+                <td class="NomeProdutoPesquisa">
+                    @Html.DisplayFor(modelItem => item.Preco)
+                </td>
+                
+                    @*@Html.ActionLink("Edit", "Edit", new { id = item.ProdutoId }) |
+                     |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ProdutoId })*@
+            </tr>
+            <tr>
+                <td>
+                    <hr />
+                </td>
+            </tr>
+
+            
+        }
+        
+    </table>
+</div>
+

@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Acessar area Administrativa";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+
+
+
+<div class="BgLoginArea">
+
+
+    @using (Html.BeginForm("EfetuarLogin", "Admin", FormMethod.Post))
+    {
+        <table border="0">
+            <tr>
+                <td>
+                    @Html.TextBox("email", "", new { id = "email", @class = "TxtLogin", placeholder = "E-mail" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.Password("senha", "", new { id = "senha", @class = "TxtLogin", placeholder = "Senha" })
+                </td>
+            </tr>
+            <tr>
+                <td>    
+                    <center>
+                        <br />
+                        <input type="submit" value="Efetuar Login" class="Btn-Entrar" />
+                    </center>
+                </td>
+            </tr>
+
+        </table>
+    }
+</div>

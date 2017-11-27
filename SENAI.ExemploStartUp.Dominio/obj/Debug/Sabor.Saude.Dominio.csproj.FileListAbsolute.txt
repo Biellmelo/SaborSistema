@@ -1,0 +1,16 @@
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Dominio.dll.config
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Dominio.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Dominio.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Data.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Models.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Util.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\EntityFramework.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Data.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Data.dll.config
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Models.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\Sabor.Saude.Util.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\EntityFramework.xml
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\Sabor.Saude.Dominio.csprojResolveAssemblyReference.cache
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\Sabor.Saude.Dominio.csproj.CoreCompileInputs.cache
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\Sabor.Saude.Dominio.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\Sabor.Saude.Dominio.pdb

@@ -1,0 +1,46 @@
+﻿@model SENAI.ExemploStartUp.Models.Models.Promocao
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="Conteiner-Adm">
+    <h2>Details</h2>
+
+    <div>
+        <h4>Promocao</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Produto.Nome)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Produto.Nome)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Descricao)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Desconto)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Desconto)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Editar", "Edit", new { id = Model.PromocaoID }) |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+    <br /><br />
+</div>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SENAI.ExemploStartUp.Models.Models.Categoria>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="Conteiner-Adm">
+    <h2><strong>Categorias Cadastradas no Sistema</strong></h2>
+    <br />
+    <p>
+        @Html.ActionLink("Nova Categoria", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                <br />
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.CategoriaId }) |
+                    @Html.ActionLink("Detalhes", "Details", new { id = item.CategoriaId }) |
+                    @Html.ActionLink("Excluir", "Delete", new { id = item.CategoriaId })
+                </td>
+            </tr>
+            
+        }
+        <tr>
+            <td>
+                <br />
+                @Html.ActionLink("Voltar", "Default", "Admin")
+            </td>
+        </tr>
+    </table>
+    <br /><br />
+</div>

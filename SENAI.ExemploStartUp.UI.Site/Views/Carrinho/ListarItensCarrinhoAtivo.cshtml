@@ -1,0 +1,72 @@
+﻿@model SENAI.ExemploStartUp.UI.Site.ViewModels.Carrinho.CarrinhoViewModel
+
+@{
+    ViewBag.Title = "ListarItensCarrinhoAtivo";
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+}
+
+<div>
+    <h4>Itens do Carrinho</h4>
+    <hr />
+    <dl class="dl-horizontal">
+    </dl>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+        </th>
+        <th>
+            @Html.Label("Produto")
+        </th>
+        <th>
+           @Html.Label("Descrição")
+        </th>
+        <th>
+            @Html.Label("Preço Unitário")
+        </th>
+        <th>
+            @Html.Label("Quantidade")
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.ItensCarrinho)
+    {
+        <tr>
+            <td>
+                <img src="~/Imagens/Produtos/@item.Produto.Imagem" style="width:100px; height:100px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto.Preco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                @Html.ActionLink("Detalhes", "DetalharProduto", new { id = item.ItemCarrinhoId })
+                @Html.ActionLink("Remover", "RemoverDoCarrinho", new { id = item.ItemCarrinhoId })
+            </td>
+        </tr>
+    }
+</table>
+
+<div class="row">
+    <div class="col-xs-12">
+        <h4><b> @Html.Label("Valor total da compra: ") @Html.DisplayFor(m => m.ValorTotal)</b></h4>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <br />
+        @Html.ActionLink("FINALIZAR A COMPRA", "FinalizarCompra", new { id = Model.Carrinho.CarrinhoDeComprasId }, new { @class = "btn btn-success", @style = "min-width:350px" })
+        <br /><br />
+        @Html.ActionLink("VOLTAR AS COMPRAS", "Index", "", new {  @class = "btn btn-primary", @style = "min-width:350px" })
+    </div>
+</div>

@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/_Layout_SaborESaude_Padroes.css")
+    @Styles.Render("~/Content/_Layout_SaborESaude.css")
+    @Styles.Render("~/Content/AreaCliente.css")
+
+    @{ 
+        var Cliente = (SENAI.ExemploStartUp.Models.Models.Cliente)Session["SessionCliente"];
+    }
+</head>
+
+<body style="background-color:white;">
+    <div class="Top_Master">
+        <div class="Logo">
+            <a href="/Home"> <img src="~/Imagens/Padrao/Logo.png" /></a>
+        </div>
+        <ul>
+            <li>Inicio</li>
+        </ul>
+        @{
+            if (Cliente == null)
+            {
+                <div class="dropdown" style="float:right;">
+                    <button id="Logado" class="dropbtn" data-toggle="modal" data-target="#exampleModal"><strong>Fazer Login</strong></button>
+                </div>
+
+
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel"> Por favor, insira os campos abaixo </h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+
+                                @using (Html.BeginForm("EfetuarLogin", "Home", FormMethod.Post))
+                                {
+                                    <center>
+                                        <div class="form-group">
+                                            @Html.TextBox("email", "", new { id = "email", @class = "form-control", placeholder = "Insira seu e-mail" })
+                                        </div>
+
+                                        <div class="form-group">
+                                            @Html.Password("senha", "", new { id = "senha", @class = "form-control", placeholder = "Insira sua senha" })
+                                        </div>
+
+                                        <div class="form-group">
+                                            <input type="submit" value="Efetuar Login" class="btn btn-success" />
+                                        </div>
+                                    </center>
+                                }
+
+                            </div>
+                            <div class="modal-footer">
+                                @*<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>*@
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal_2">Criar Nova Conta</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="dropdown" style="float:right;">
+                    <button id="Logado" class="dropbtn"><strong>Olá @Html.LabelForModel(Cliente.Nome)▼</strong></button>
+                    <div class="dropdown-content">
+                        <a style="color:gray;" href="/Cliente/MinhaConta">Minha Conta</a>
+                        @Html.ActionLink("Meus Pedidos", "MeusPedidos", "Carrinho","Carrinho", new { id = Cliente.ClienteId, @style = "color:gray;" })
+                        @Html.ActionLink("Sair", "LogOut", "Cliente", "", new { @style = "color:gray;" })
+                    </div>
+                </div>
+            }
+
+
+        }
+    </div>
+
+
+    <br /><br />
+    @using (Html.BeginForm("Pesquisa", "Produtos", FormMethod.Post))
+    {
+        <div class="SearchBoxBg">
+            @Html.TextBox("id", "", new { id = "id", @class = "SearchBox", placeholder = "QUAL VAI SER HOJE?", @style = "min-width:91%;" })
+
+            <input type="submit" value="" class="BtnPesquisar" />
+
+        </div>
+    }
+    <div class="container body-content">
+        @RenderBody()
+            </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

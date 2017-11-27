@@ -1,0 +1,28 @@
+﻿@model SENAI.ExemploStartUp.Models.Models.Cliente
+
+@{
+    ViewBag.Title = "Deletar Cliente";
+    
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="Conteiner-Adm">
+    <br />
+    <h3>Deletar dados de @Model.Nome</h3>
+    <br />
+    <h3><b>Deseja realmente deletar permanentemente esse cliente?</b></h3>
+    <div>
+        
+        <hr />
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Confirmar" class="btn btn-default" /> |
+                @Html.ActionLink("Cancelar e voltar", "TodosOsCliente")
+            </div>
+        }
+    </div>
+    <br /><br />
+</div>

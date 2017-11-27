@@ -1,0 +1,25 @@
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Data.dll.config
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Data.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Data.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Models.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\SENAI.ExemploStartUp.Data.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\SENAI.ExemploStartUp.Data.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\SENAI.ExemploStartUp.Data.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Data.dll.config
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Data.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Data.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\SENAI.ExemploStartUp.Models.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\SENAI.ExemploStartUp.Data.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\SENAI.ExemploStartUp.Data.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\SENAI.ExemploStartUp.Data.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\SENAI.ExemploStartUp.Data.pdb

@@ -1,0 +1,29 @@
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Dominio.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Dominio.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Data.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Util.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Data.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Models.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Util.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\SENAI.ExemploStartUp.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\SENAI.ExemploStartUp.Dominio.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\SENAI.ExemploStartUp.Dominio.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Dominio.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Dominio.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Data.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Util.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Data.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Data.dll.config
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Models.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Util.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\SENAI.ExemploStartUp.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\SENAI.ExemploStartUp.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\SENAI.ExemploStartUp.Dominio.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\obj\Debug\SENAI.ExemploStartUp.Dominio.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Dominio\bin\Debug\SENAI.ExemploStartUp.Dominio.dll.config

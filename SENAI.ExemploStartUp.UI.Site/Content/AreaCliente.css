@@ -1,0 +1,220 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+@media screen and (min-width: 1366px) {
+    .HeaderArea {
+    }
+
+        .HeaderArea h3 {
+            font-family: Roboto Black;
+            font-weight: 600;
+            text-align: center;
+            color: #80a65d;
+            font-size: 25px;
+        }
+
+
+    .CardArea {
+        margin-top: 50px;
+        width: 100%;
+    }
+
+    .Card {
+        background-color: #e0e0e0;
+        width: 150px;
+        height: 195px;
+        margin-right: 7px;
+        float: left;
+        position: relative;
+        border-radius: 2px;
+        border-color: none;
+        transition: 0.5s;
+        transition-timing-function: ease;
+        border-radius: 5px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+        .Card:hover {
+            margin-top: -15px;
+            z-index: 10000;
+            box-shadow: 0px 40px 45px 0px rgba(0, 0, 0, 0.5);
+        }
+
+    .PesquisaResultadoHeader {
+        background-color: rgb(61, 90, 254);
+        box-shadow: 0px 28px 45px 0px rgba(0, 0, 0, 0.3);
+        position: relative;
+        border-radius: 10px 10px 0px 0px;
+        width: 1156px;
+        min-width: 1156px;
+        height: 94px;
+    }
+
+
+    .ResultadosPesquisa {
+        margin-top: 50px;
+        padding-top: 40px;
+        padding-left: 40px;
+        padding-bottom: 40px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px -28px 45px 0px rgba(0, 0, 0, 0.3);
+        position: relative;
+        width: 1156px;
+        height: 363px;
+        z-index: 41;
+    }
+
+    .ImagemPesquisa img {
+        width: 135px;
+        height: 135px;
+        border-radius: 67.5px;
+        float: left;
+    }
+
+    .NomeProdutoPesquisa a {
+        color: #5a5959;
+        font-family: Roboto;
+        font-size: 29px;
+        text-align: left;
+        font-weight: 300;
+    }
+
+    .Detalhes-Bg {
+        margin-top: 50px;
+        background-color: #388e3c;
+        border-radius: 20px;
+        width: 1205px;
+        height: 485px;
+        box-shadow: 0px 28px 45px 0px rgba(0, 0, 0, 0.3);
+        position: relative;
+        background-size: 100%;
+    }
+
+    .Detalhes-Bg-Imagem {
+        display: block;
+        background-color: #388e3c;
+        border-radius: 20px;
+        width: 100%;
+        height: 485px;
+        position: relative;
+        background-size: 100%;
+        object-fit: cover;
+        object-position: center;
+        opacity: 0.5;
+    }
+
+    .ImagemProduto {
+        width: 250px;
+        height: 250px;
+        border-radius: 125px;
+        margin-left: 50px;
+        margin-top: 290px;
+        float: left;
+        position: relative;
+        z-index: 200;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .Sombra {
+        box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.1),0px 26px 30px 0px rgba(0, 0, 0, 0.15),0px 28px 45px 0px rgba(0, 0, 0, 0.3);
+    }
+
+    .Detalhe {
+        width: 830px;
+        height: 150px;
+        float: right;
+        margin-top: 213px;
+        margin-right: 47px;
+    }
+
+        .Detalhe h3 {
+            font-family: Roboto;
+            color: white;
+            font-weight: 400;
+            font-size: 46px;
+            position: relative;
+            z-index: 201;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+
+        .Detalhe h2 {
+            font-size: 60px;
+            color: white;
+            font-family: Roboto;
+            font-weight: bolder;
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+
+    .CardDoDiaTop {
+        width: 100%;
+        height: 450px;
+        margin-bottom:40px;
+    }
+    .CardDoDiaArea
+    {
+        width:1040px;
+        height:auto;
+    }
+
+    .CardaDoDia {
+        width: 320px;
+        height: 320px;
+        float: left;
+        margin-bottom: 40px;
+        margin-left: 40px;
+        border-radius:30px;
+        background-color: #f2f1f1;
+        border: solid;
+        border-image-width: 1px;
+        border-color: #bdbdbd;
+        position:relative;
+    }
+
+    .FundoDet
+    {
+        display:none;
+        background-color:;  
+        opacity:0.9;
+    }
+
+    .FundoDet:hover
+    {
+        display:none;
+    }
+
+        .FundoDet h1 {
+            font-family: 'Shrikhand', cursive;
+            color: #f2f1f1;
+            text-align:center;
+            width:287px;
+            height:181px;
+            margin-top:16px;
+            margin-left:16px;
+            font-size:40px;
+        }
+
+        .FundoDet h2 {
+            font-family: 'Shrikhand', cursive;
+            color: #f2f1f1;
+            text-align: center;
+            width: 287px;
+            height: 89px;
+            margin-top: 20px;
+            margin-left: 16px;
+            font-size: 40px;
+        }
+        .FundoDet hr
+        {
+            width:0px;
+            margin:auto;
+            position:relative;
+            margin-top:3px;
+        }
+            .FundoDet hr:hover {
+                background-color: #0e99da;
+                width: 100px;
+                height:1px;
+            }
+}

@@ -1,0 +1,5 @@
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Models\bin\Debug\Sabor.Saude.Models.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Models\bin\Debug\Sabor.Saude.Models.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\Sabor.Saude.Models.csproj.CoreCompileInputs.cache
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\Sabor.Saude.Models.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\Sabor.Saude.Models.pdb

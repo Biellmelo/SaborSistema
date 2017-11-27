@@ -1,0 +1,376 @@
+@media screen and (min-width: 1366px)
+{
+/*Dropdown By: w3school*/
+    .dropbtn {
+        background-color: transparent;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+        border-radius:2px;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        right: 0;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            color:white;
+        }
+
+            .dropdown-content a:hover {
+                background-color: #f1f1f1;
+                    
+            }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: black;
+        opacity: 0.3;
+        filter: Alpha(opacity=30);
+    }
+/*------------------------*/
+
+	*
+	{
+		margin: 0 auto;
+	}
+	body
+	{
+        background-image: url("../Imagens/Padrao/bg_Padrao.png");
+        width:90%;
+        margin:auto;
+	}
+    .Conteiner-Adm
+    {
+        padding-top:20px;
+        padding-left:30px;
+        border-radius: 2px;
+        background-color: white;
+        width:90%;
+        padding-bottom:30px;
+        
+    }
+	.Top_Master
+	{
+		width: 100%;
+		height:200px;
+		background:transparent;
+		margin-top: 70px;
+	}
+    
+        .Top_Master ul {
+            height: 70px;
+            margin-top: 100px;
+            position: relative;
+            padding-left: 9px;
+            padding-top: 15px;
+            font-size: 50px;
+        }
+	.Top_Master ul li
+	{
+		font-family: Roboto;
+		font-weight: 100;
+		font-size: 40px;
+		text-align: left;
+		color: #f5f5f5;
+		float: left;
+		position: relative;
+        list-style:none;
+        margin-right:30px;
+	}
+
+	.Logo
+	{
+		float: left;
+		width: 331px;
+		height: 125px;
+		margin-left: 50px;
+        margin-right:100px;
+		position: relative;
+        margin-bottom:40px;
+	}
+	.Top_Master h5
+	{
+		font-family: Roboto;
+		font-weight: 100;
+		font-size:25px;
+        margin-top:10px;
+		text-align: right;
+		color:#f5f5f5;
+		float: right;
+		margin-right: 100px;
+		position: relative;
+	}
+	.Midias
+	{
+		width: 68px;
+		margin-left: 14px;
+		float: left;
+		position: relative;
+		margin-top:30px;
+	}
+
+	.SearchBoxBg
+	{
+		width: 1012px;
+		height: 91px;
+		margin:auto;
+		border-radius: 45.5px;
+	}
+	.SearchBox
+	{
+		height: 100%;
+		height: 950px;
+		color: #626262;
+		padding-left: 40px;
+		font-family: Roboto;
+		font-weight: 200;
+		font-size: 40px;
+		text-align: left;
+	}
+	.SearchBox placeholder
+	{
+		color: #cacaca;
+	}
+	.BtnPesquisar
+	{
+		background-image: url(~/CSS/Imgs/BtnPesquisar.png);
+		background-color: #e90056;
+		width: 85px;
+		height: 85px;
+		border: none;
+		border-radius: 42.5px;
+		margin-top: 3px;
+		float: right;
+		margin-right: 3px;
+
+	}
+}
+
+@media screen and (min-width: 1366px)
+{
+	*
+	{
+		margin: 0 auto;
+	}
+    body {
+        background-color: black;
+    }
+	.Top_Master
+	{
+		width: 100%;
+		height:80px;
+		background:transparent;
+		margin-top: 60px;
+	}
+	.Top_Master ul
+	{
+		margin: auto;
+		height: 50px;
+		margin-top:19px;
+		float:left;
+		position: relative;
+		margin-left: 70px;
+		padding-left: 9px;
+
+
+	}
+	.Top_Master ul li
+	{
+		margin: auto;
+		font-family: Roboto;
+		font-weight: 100;
+		font-size: 25px;
+		text-align: left;
+		color: #f5f5f5;
+		float: left;
+		position: relative;
+	}
+	.Logo
+	{
+		float: left;
+		width: 207px;
+		height: 77px;
+		margin-left: 85px;
+		position: relative;
+	}
+	.Top_Master h4
+	{
+		font-family: Roboto;
+		font-weight: 100;
+		font-size:18px;
+		text-align: right;
+		color:#f5f5f5;
+		float: right;
+		margin-right: 100px;
+		position: relative;
+	}
+	.Midias
+	{
+		width: 43px;
+		margin-left: 8px;
+		float: left;
+		position: relative;
+		margin-top:20px;
+	}
+
+	.SearchBoxBg
+	{
+		width: 839px;
+		height: 72.65px;
+		margin:auto;
+		border-radius: 36.33px;
+	}
+	.SearchBox
+	{
+		height: 100%;
+		height: 950px;
+		color: #626262;
+		padding-left: 40px;
+		font-family: Roboto;
+		font-weight: 200;
+		font-size: 40px;
+		text-align: left;
+	}
+	.SearchBox placeholder
+	{
+		color: #cacaca;
+	}
+	.BtnPesquisar
+	{
+		background-image: url(~/CSS/Imgs/BtnPesquisar.png);
+		background-color: #e90056;
+		width: 67.78px;
+		height: 67.78px;
+		border: none;
+		border-radius: 33.89px;
+		margin-top: 2px;
+		float: right;
+		margin-right: 2px;
+
+	}
+}
+@media screen and (min-width: 768px)
+{
+	*
+	{
+		margin: 0 auto;
+	}
+	body
+	{
+
+	}
+	.Top_Master
+	{
+		width: 100%;
+		height:72px;
+		background:transparent;
+		margin-top: 18px;
+	}
+	.Top_Master ul
+	{
+		margin: auto;
+		height: 39px;
+		margin-top: 17px;
+		float:left;
+		position: relative;
+		margin-left: 20px;
+		padding-left: 9px;
+
+
+	}
+	.Top_Master ul li
+	{
+		margin: auto;
+		font-family: Roboto;
+		font-weight: 100;
+		font-size: 15px;
+		text-align: left;
+		color: #f5f5f5;
+		float: left;
+		position: relative;
+	}
+	.Logo
+	{
+		float: left;
+		width: 128px;
+		height: 49px;
+		margin-left: 40px;
+		position: relative;
+	}
+	.Top_Master h4
+	{
+		font-family: Roboto;
+		font-weight: 100;
+		font-size: 11px;
+		text-align: right;
+		color: #f5f5f5;
+		float: right;
+		margin-right: 100px;
+		position: relative;
+	}
+	.Midias
+	{
+		width: 28px;
+		margin-left: 5px;
+		float: left;
+		position: relative;
+		margin-top:10px;
+	}
+
+	.SearchBoxBg
+	{
+		width: 640px;
+		height: 55.5px;
+		margin:auto;
+		border-radius: 27.75px;
+	}
+	.SearchBox
+	{
+		height: 100%;
+		height: 55.5px;
+		color: #626262;
+		padding-left: 40px;
+		font-family: Roboto;
+		font-weight: 200;
+		font-size: 40px;
+		text-align: left;
+	}
+	.SearchBox placeholder
+	{
+		color: #cacaca;
+	}
+	.BtnPesquisar
+	{
+		background-image: url(~/CSS/Imgs/BtnPesquisar.png);
+		background-color: #e90056;
+		width: 51px;
+		height: 51px;
+		border: none;
+		border-radius: 25.85px;
+		margin-top: 2px;
+		float: right;
+		margin-right: 2px;
+
+	}
+}

@@ -1,0 +1,22 @@
+﻿@model SENAI.ExemploStartUp.UI.Site.ViewModels.Carrinho.DetalheCompraViewModel
+
+@{
+    ViewBag.Title = "DetalheCompra";
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+}
+
+<h2><b>Detalhes Da Compra</b></h2>
+
+<h3><b>Obrigado por comprar conosco @Html.DisplayFor(m => m.NomeCliente)</b></h3>
+
+<br />
+<br />
+<div class="row">
+    <div class="col-xs-10">
+        O seu pedido referente a sua compra efetuada no dia @Html.DisplayFor(m => m.DataCompra) será entregue em até 03 dias úteis.
+        <br />
+        <br />
+        CÓDIGO DO PEDIDO: @Html.DisplayFor(m => m.Pedido)
+    </div>
+</div>
+

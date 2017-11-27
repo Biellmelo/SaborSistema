@@ -1,0 +1,13 @@
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\Sabor.Saude.Data.dll.config
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\Sabor.Saude.Data.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\Sabor.Saude.Data.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\Sabor.Saude.Models.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\Sabor.Saude.Models.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.xml
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\Sabor.Saude.Data.csprojResolveAssemblyReference.cache
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\Sabor.Saude.Data.csproj.CoreCompileInputs.cache
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\Sabor.Saude.Data.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Data\obj\Debug\Sabor.Saude.Data.pdb

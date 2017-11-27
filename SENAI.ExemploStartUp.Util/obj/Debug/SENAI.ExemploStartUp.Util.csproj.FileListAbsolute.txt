@@ -1,0 +1,5 @@
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Util\bin\Debug\SENAI.ExemploStartUp.Util.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Util\bin\Debug\SENAI.ExemploStartUp.Util.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Util\obj\Debug\SENAI.ExemploStartUp.Util.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Util\obj\Debug\SENAI.ExemploStartUp.Util.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Util\obj\Debug\SENAI.ExemploStartUp.Util.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Util\bin\Debug\Sabor.Saude.Util.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Util\bin\Debug\Sabor.Saude.Util.pdb
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Util\obj\Debug\Sabor.Saude.Util.csprojResolveAssemblyReference.cache
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Util\obj\Debug\Sabor.Saude.Util.csproj.CoreCompileInputs.cache
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Util\obj\Debug\Sabor.Saude.Util.dll
+E:\NHÃÃ\ExemploStartUp\SENAI.ExemploStartUp.Util\obj\Debug\Sabor.Saude.Util.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Models\bin\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Models\bin\Debug\SENAI.ExemploStartUp.Models.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\SENAI.ExemploStartUp.Models.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\SENAI.ExemploStartUp.Models.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Models\bin\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Models\bin\Debug\SENAI.ExemploStartUp.Models.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\SENAI.ExemploStartUp.Models.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\SENAI.ExemploStartUp.Models.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\SENAI.ExemploStartUp.Models.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.Models\obj\Debug\SENAI.ExemploStartUp.Models.pdb

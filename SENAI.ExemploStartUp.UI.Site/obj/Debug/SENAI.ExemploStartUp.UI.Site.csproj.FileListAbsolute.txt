@@ -1,0 +1,135 @@
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\ApplicationInsights.config
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\csc.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\vbc.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.UI.Site.dll.config
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.UI.Site.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.UI.Site.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Antlr3.Runtime.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.Web.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Newtonsoft.Json.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Dominio.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Models.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Util.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Helpers.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Mvc.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Optimization.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Razor.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\WebGrease.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Data.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Dominio.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Models.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Util.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.Web.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Helpers.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Mvc.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Optimization.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Razor.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Antlr3.Runtime.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Newtonsoft.Json.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Data.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\obj\Debug\SENAI.ExemploStartUp.UI.Site.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\obj\Debug\SENAI.ExemploStartUp.UI.Site.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\obj\Debug\SENAI.ExemploStartUp.UI.Site.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\ApplicationInsights.config
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\csc.exe
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\vbc.exe
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.UI.Site.dll.config
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.UI.Site.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.UI.Site.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Antlr3.Runtime.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.Web.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Newtonsoft.Json.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Dominio.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Models.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Util.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Helpers.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Mvc.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Optimization.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Razor.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\WebGrease.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Data.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Dominio.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Models.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Util.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.Web.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Helpers.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Mvc.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Optimization.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.Razor.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Antlr3.Runtime.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Newtonsoft.Json.xml
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Data.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Data.dll.config
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\obj\Debug\SENAI.ExemploStartUp.UI.Site.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\obj\Debug\SENAI.ExemploStartUp.UI.Site.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\obj\Debug\SENAI.ExemploStartUp.UI.Site.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\obj\Debug\SENAI.ExemploStartUp.UI.Site.pdb
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Correios.Net.dll
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\SENAI.ExemploStartUp.Dominio.dll.config
+C:\Users\GABRIEL_MELO_SCHWEBE\Documents\ExemploStartUp\SENAI.ExemploStartUp.UI.Site\bin\Correios.Net.pdb

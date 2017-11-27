@@ -1,0 +1,169 @@
+@media screen and (min-width: 1366px) {
+    * {
+        margin: 0 auto;
+    }
+
+    body {
+        background-color: white;
+        background-image: url("../Imagens/Padrao/bg_Padrao.png");
+        background-repeat: repeat-x;
+        width: 100;
+        background-position-y: -700PX;
+    }
+
+    Top_Master {
+        width: 100%;
+        height: 200px;
+        background: transparent;
+        margin-top: 70px;
+        font-size: 40px;
+    }
+
+    .Top_Master ul {
+        margin: auto;
+        height: 70px;
+        margin-top: 35px;
+        float: left;
+        position: relative;
+        margin-left: 70px;
+        padding-left: 9px;
+    }
+
+        .Top_Master ul li {
+            margin: auto;
+            font-family: Roboto;
+            font-weight: 100;
+            text-align: left;
+            color: #f5f5f5;
+            float: left;
+            position: relative;
+        }
+
+    .Logo {
+        float: left;
+        width: 331px;
+        height: 125px;
+        margin-left: 50px;
+        position: relative;
+    }
+
+    .Top_Master h4 {
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 30px;
+        text-align: right;
+        color: #f5f5f5;
+        float: right;
+        margin-right: 100px;
+        position: relative;
+    }
+
+    .Midias {
+        width: 68px;
+        margin-left: 14px;
+        float: left;
+        position: relative;
+        margin-top: 30px;
+    }
+
+    .SearchBoxBg {
+        background-color: white;
+        width: 1012px;
+        height: 72px;
+        margin: auto;
+        position: relative;
+        margin-top: 100px;
+        border-radius: 45.5px;
+        box-shadow: 0px 28px 45px 0px rgba(0, 0, 0, 0.3);
+    }
+
+
+    .SearchBox {
+        height: 100%;
+        min-width: 100%;
+        color: #bebdbd;
+        padding-left: 40px;
+        font-family: Roboto;
+        font-weight: 200;
+        font-size: 30px;
+        text-align: left;
+        border: none;
+        border-radius: 45.5px;
+    }
+
+        .SearchBox placeholder {
+            color: #bebdbd;
+        }
+
+    .BtnPesquisar {
+        background-image: url("../Imagens/Padrao/BtnPesquisar.png");
+       display:none;
+        width: 85px;
+        height: 85px;
+        border: none;
+        border-radius: 42.5px;
+        margin-top: -23px;
+        float: right;
+        margin-right: 3px;
+        z-index: 999;
+    }
+
+    .BgLoginArea {
+        padding-top: 20px;
+        padding-left: 40px;
+        padding-bottom: 40px;
+        border-radius: 2px;
+        padding-right: 40px;
+        background-color: white;
+        box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.1),0px 26px 30px 0px rgba(0, 0, 0, 0.15),0px 28px 45px 0px rgba(0, 0, 0, 0.3);
+        position: relative;
+        margin: auto;
+        width: 748px;
+        margin-top: 100px;
+    }
+
+    .Btn-Entrar {
+        margin-top: 10px;
+        border: none;
+        background-color: white;
+        font-family: Roboto;
+        font-weight: 400;
+        color: #111111;
+        text-align: center;
+        font-size: 20px;
+        transition: 0.5s;
+        margin: auto;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+        .Btn-Entrar:active {
+            background-color: #eaeaea;
+            padding-top: 5px;
+        }
+
+    .TxtLogin placeholder {
+        color: #9e9e9e;
+    }
+
+    .TxtLogin {
+        border-width: 1px;
+        border-color: rgb(225, 225, 225);
+        border-style: solid;
+        border-radius: 2px;
+        margin-top: 10px;
+        position: relative;
+        margin: auto;
+        width: 257px;
+        height: 35px;
+        z-index: 28;
+        clear: both;
+        font-family: Roboto;
+        font-weight: 300;
+        font-size: 16px;
+        color: #5f5f5f;
+        padding-left: 14px;
+    }
+}

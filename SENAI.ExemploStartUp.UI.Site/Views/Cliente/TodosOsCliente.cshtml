@@ -1,0 +1,59 @@
+﻿@model IEnumerable<SENAI.ExemploStartUp.Models.Models.Cliente>
+
+@{
+    ViewBag.Title = "Meus clientes";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="Conteiner-Adm">
+    <h2><strong>Clientes cadastrados no sistema</strong></h2>
+    <br /><br />
+
+    <p>
+        @Html.ActionLink("Novo Cliente", "NovoCliente")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ativo)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ativo)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarCliente", new { id = item.ClienteId }) |
+                    @Html.ActionLink("Ver detalhes", "DetalheCliente", new { id = item.ClienteId }) |
+                    @Html.ActionLink("Excluir", "DeletarCliente", new { id = item.ClienteId })
+                </td>
+            </tr>
+            
+        }
+        <tr>
+            <td>
+                <br /><br />
+                <a href="/Admin/Default" class="btn btn-outline-secondary"> Voltar </a>
+
+                    @*@Html.ActionLink("Voltar", "Default", "Admin", new { @class = "btn btn-outline-secondary" })*@
+</td>
+        </tr>
+    </table>
+    <br /><br />
+</div>

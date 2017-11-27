@@ -1,0 +1,7 @@
+﻿@model SENAI.ExemploStartUp.Models.Models.Cliente
+
+@{
+    ViewBag.Title = "MinhaConta";
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+    var UserLogado = (SENAI.ExemploStartUp.Models.Models.Cliente)Session["SessionCliente"];
+}

@@ -1,0 +1,39 @@
+﻿@model SENAI.ExemploStartUp.UI.Site.ViewModels.Carrinho.ProdutoDetalheViewModel
+@{
+    ViewBag.Title = "DetalheProduto";
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+}
+<div style="padding-bottom:30px"></div>
+<div class="row">
+
+    <div class="col-xs-5">
+        @using (Html.BeginForm("Adicionar", "Carrinho", "", FormMethod.Post))
+        {
+            <img src="~/Imagens/Produtos/@Model.Produto.Imagem" style="width:350px;height:320px" />
+            <br /><br />
+            @Html.HiddenFor(m => m.Produto.ProdutoId)
+
+           @Html.Label("Quantidade: ") @Html.EditorFor(model => model.Quantidade, new { htmlAttributes = new { @Value = "1", @class = "form-control", @style = "min-width:350px", min = 1, max = Model.Produto.Quantidade } })
+            <br />
+            <input type="submit" value="ADICIONAR AO CARRINHO" style="min-width:350px;" class="btn btn-success" />
+        }
+        <br />
+        @Html.ActionLink("VOLTAR", "Index", "", new { @class = "btn btn-danger", @style = "min-width:350px;" })
+        @*<input type="submit" value="VOLTAR" style="min-width:350px;" class="btn btn-danger" />*@
+    </div>
+    <div class="col-xs-7">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2><b>@Model.Produto.Nome</b></h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>@Model.Produto.Descricao</h2>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
